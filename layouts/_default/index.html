@@ -1,0 +1,8 @@
+{{ define "content" }}
+<section>
+  <ul class="main_listing">
+    {{ range where .Pages.ByDate.Reverse "Section" "" }}
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
