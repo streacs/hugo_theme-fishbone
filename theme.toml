@@ -3,19 +3,13 @@
 
 name = "Fishbone"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
-homepage = "http://example.com/"
+licenselink = "https://github.com/streacs/hugo_theme_fishbone/blob/master/LICENSE"
+description = "Just another way of theming"
+homepage = "http://www.streacs.com/"
 tags = []
 features = []
 min_version = "0.41"
 
 [author]
-  name = ""
-  homepage = ""
-
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "Oliver Wolf"
+  homepage = "http://www.streacs.com/"
